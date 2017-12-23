@@ -3,11 +3,12 @@
 
 
 ## Lesson 10: Robot Localization, Quiz: Inexact motion 2
-This is the clip from udacity intro to self driving car.
+This is the clip from udacity intro to self driving car. <br />
 ![Alt text](inexact-motion2/Seb_robot_motion.png?raw=true "the quiz")
 
-Same thing in excel
+Same thing in excel <br />
 ![Alt text](inexact-motion2/initial_pos.png?raw=true "the initial position")
+
 
 Remember the world (cell) is cyclic. When robot is at cell 5, it can move back to cell 1 by taking a single step (C5 -> C1)
 
